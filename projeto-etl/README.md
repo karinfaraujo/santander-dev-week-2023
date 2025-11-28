@@ -1,5 +1,5 @@
 # 🧠 Projeto ETL — Análise Automatizada de Feedbacks Internos
-Versão adaptada e expandida por **[Karin]**
+Versão adaptada e expandida por **Karin**
 
 ---
 
